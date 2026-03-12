@@ -1,0 +1,7 @@
+- https://arxiv.org/pdf/2403.17898
+- Code available: https://github.com/city-super/Octree-GS
+- Recording large-scale scenes is becoming increasingly common, yet these methods inherently struggles to scale
+- Built off [[Scaffold-GS]]
+- Anchors are classified as LoD
+- Anchors are positioned at the centers of sparse, uniform voxel grids with varying voxel sizes.
+- LOD K rasterize all Gaussian primitives from LOD 0 to K
