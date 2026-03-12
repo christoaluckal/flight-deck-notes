@@ -11,3 +11,4 @@
 - Claim against [[OctreeGS]] and [[FLoD]]
 	- Unlike them, our method builds a LOD structure on top of the standard reconstruction and can be applied to various existing methods while we observed that coarse-to fine strategy tends to fail on large-scale scenes as the densification fails when the coarse set is too sparse
 	- Also require moving kernels between active and passive which has overhead
+- Writing this temporarily to test flight-deck
